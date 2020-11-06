@@ -1,2 +1,1 @@
-Hello from master
-Hello from serj
+Hello from qwe
